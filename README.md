@@ -1,6 +1,6 @@
 #### Identification of viruses and other pangenomic elements within SAGs
 
-In this tutorial we are focusing on viruses from plates AM-388 and AM-390 from GORG-Dark.  
+In this tutorial we are focusing on viruses from plates AG-910.
 
 Notebooks 1, 2 and 3 will take you through virus searching for and curation of viruses within an indivial SAG.
 
