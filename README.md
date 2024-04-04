@@ -13,13 +13,13 @@ cd ~/storage/userlab/{your name here}
 then clone this github repository:  
 
 ```
-git clone 
+git clone https://github.com/Bigelow-eSCG-tutorials/day3_virus_tutorial.git
 ```
 
 and navigate into this directory in terminal:
 
 ```
-cd 
+cd day3_virus_tutorial
 ```
 
 Navigate into this directory in the jupyterhub navigation pane on the left side of your screen, select ```1_finding_phages.ipynb``` to open it in a new window in jupyterhub and let's find some viruses.
